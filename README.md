@@ -1,0 +1,2 @@
+Bike Analysis Dashboard
+Bike Sales Analysis using Microsoft Excel is a dynamic project meticulously crafted to harness the power of Excel for insightful data exploration. the project showcases the ability of Excel to transform raw data into actionable insights. This project offers valuable lessons in data manipulation and interpretation. Dive into the realm of sales analytics with Bike Sales Analysis using Microsoft Excel and unlock the potential of spreadsheet software in unraveling business trends.
