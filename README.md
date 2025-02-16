@@ -4,6 +4,8 @@ Bike Sales Analysis using Microsoft Excel is a dynamic project meticulously craf
 This Excel Dashboard provides a detailed analysis of bike sales trends based on key customer demographics and behaviors. The interactive dashboard allows users to explore how different factors influence bike purchases.
 
 📌 Key Insights & Features
+
+
 1️. Demographic Insights
 Income Levels: Customers with higher average income tend to purchase bikes more frequently.
 Age Brackets: Middle-aged customers are the largest segment purchasing bikes.
