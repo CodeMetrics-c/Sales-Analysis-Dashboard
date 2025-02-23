@@ -18,7 +18,7 @@ This stage began with getting to know the dataset and checking for any data qual
 - Creating a conditional column based on the "Age" column to make out 3 different age brackets.using NESTED IF function
 
 
-![Bike Sales Dashboard](dashboard_screenshot.png)
+![Bike Sales Dashboard](Bikesalesdashboard.png)
 
 ## 📌 Key Insights & Features
 
