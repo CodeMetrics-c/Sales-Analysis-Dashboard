@@ -15,7 +15,11 @@ This stage began with getting to know the dataset and checking for any data qual
 - Replacing values with more meaningful entries using FIND and REPLACE functions. eg: M with Married in the "MaritalStatus" column, F with Female in the "Gender" 
   column etc
 - Changing the data type of "Income" column to currency.
-- Creating a conditional column based on the "Age" column to make out 3 different age brackets.using NESTED IF function.
+- Creating a conditional column based on the "Age" column to make out 3 different age brackets.using NESTED IF function
+
+
+![Dashboard Preview](Bike Sales Dashboard.png)
+
 ## 📌 Key Insights & Features
 
 - **Demographic Insights**
@@ -26,7 +30,6 @@ Gender: Males have a slightly higher purchase rate compared to females.
 - **Customer Behavior Analysis**
 Commute Distance: Customers commuting shorter distances (0-1 miles) show a higher likelihood of purchasing a bike.
 Education Level & Region Filters: Users can analyze bike sales by education levels and geographic regions.
-
 
 - **Interactive Features**
 Slicers for Filtering Data: Users can filter by marital status, region, education level, gender, and more.
